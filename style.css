@@ -209,3 +209,9 @@ footer .attribution a {
         max-width: max(75%, 300px);
     }
 }
+
+@media only screen and (max-width: 375px) {
+    .main-heading p {
+        max-width: max(75%, 200px);
+    }
+}
